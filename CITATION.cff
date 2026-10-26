@@ -4,8 +4,8 @@ title: "Lagos coastal subsidence from Sentinel-1 InSAR: ISCE2 multi-burst proces
 version: 1.0.0
 type: software
 authors:
-  - given-names: Abayomi Glory
-    family-names: Kehinde
+  - given-names: Glory Kehinde
+    family-names: Abayomi
     affiliation: "Institut national de la recherche scientifique (INRS)"
 abstract: >-
   Jupyter notebooks used to check HyP3 INSAR_GAMMA results for phase-unwrapping
