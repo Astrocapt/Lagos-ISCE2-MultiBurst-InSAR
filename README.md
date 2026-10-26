@@ -1,4 +1,4 @@
-# Lagos coastal subsidence from Sentinel-1 InSAR: ISCE2 multi-burst processing scripts
+# Lagos Nigeria coastal subsidence from Sentinel-1 InSAR: ISCE2 multi-burst processing scripts
 
 **Author:** Abayomi Glory Kehinde (INRS, 2026)
 
