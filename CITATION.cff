@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these notebooks, please cite them as below."
+title: "Lagos coastal subsidence from Sentinel-1 InSAR: ISCE2 multi-burst processing scripts"
+version: 1.0.0
+type: software
+authors:
+  - given-names: Abayomi Glory
+    family-names: Kehinde
+    affiliation: "Institut national de la recherche scientifique (INRS)"
+abstract: >-
+  Jupyter notebooks used to check HyP3 INSAR_GAMMA results for phase-unwrapping
+  errors, order and process Sentinel-1 ISCE2 multi-burst interferograms over Lagos,
+  Nigeria with MintPy, decompose ascending and descending velocities into vertical
+  and east-west motion, and compare the results with Ohenhen and Shirzaei (2022).
+keywords:
+  - InSAR
+  - Sentinel-1
+  - MintPy
+  - land subsidence
+  - Lagos
